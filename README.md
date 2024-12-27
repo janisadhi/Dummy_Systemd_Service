@@ -69,8 +69,8 @@ done
 
 1. **Clone the repository** or copy the files to your server:
    ```bash
-   git clone https://github.com/yourusername/dummy-systemd-service.git
-   cd dummy-systemd-service
+   git clone https://github.com/janisadhi/Dummy-Systemd-Service.git
+   cd Dummy-Systemd-Service
    ```
 
 2. **Place the service and script files** in the appropriate locations:
@@ -110,3 +110,5 @@ done
    sudo systemctl stop dummy.service
    ```
 
+___
+This project is part of [Janis Adhikari's](https://roadmap.sh/projects/dummy-systemd-service)  DevOps projects.
